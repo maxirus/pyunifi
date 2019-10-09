@@ -1,0 +1,2 @@
+# Remove Windows (CRLF) line endings
+* text eol=lf
